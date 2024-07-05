@@ -1,0 +1,11 @@
+allocate
+process
+README.txt
+queue.o
+data.o
+bestfit.o
+main.o
+process.o
+task4.o
+main0.c
+main0.o
